@@ -1,0 +1,6 @@
+project: semver
+target: sort-version
+duration: 90
+
+cmds:
+    - cmd: /sort_version

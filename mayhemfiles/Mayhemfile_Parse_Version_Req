@@ -1,0 +1,6 @@
+project: semver
+target: parse-version-req
+duration: 90
+
+cmds:
+    - cmd: /parse_version_req
